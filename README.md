@@ -11,7 +11,7 @@ FitIn is a fitness accountability app. This policy explains what information we 
 - We collect only what we need to run the app: account details, fitness logs, optional profile info, and (if you enable them) location and push notifications.
 - We do **not** sell your personal information.
 - We do **not** show ads or use third-party analytics trackers.
-- You can request access to or deletion of your data by contacting us (see [Contact](#contact)).
+- You can delete your account in the app, or contact us for data access requests (see [Contact](#contact)).
 
 ## Information we collect
 
@@ -99,7 +99,7 @@ We may also disclose information if required by law or to protect the rights, sa
 
 ## Data retention
 
-We keep your data for as long as your account is active. If you request account deletion, we will delete or anonymize your personal data within a reasonable period, except where we must retain information for legal, security, or dispute-resolution purposes.
+We keep your data for as long as your account is active. If you deactivate your account, we retain your data so you can reactivate by signing in again. If you delete your account from the Profile screen, we permanently delete or anonymize your personal data promptly, except where we must retain information for legal, security, or dispute-resolution purposes.
 
 ## Data security
 
@@ -115,7 +115,11 @@ You can:
 - **Turn off push notifications** in your device settings
 - **Revoke location access** in your device settings (home gym pinning and location-based features will stop working)
 - **Sign out** of FitIn at any time from your profile screen
-- **Request account deletion** by contacting us (see below)
+- **Deactivate your account** temporarily from your profile screen (hides your account; sign in again to reactivate)
+- **Delete your account** permanently from your profile screen (removes your personal data from our systems)
+- **Contact us** for data access or other privacy requests (see below)
+
+Use of FitIn is also governed by our [Terms of Service](https://github.com/nfiny-jae/app-fitin-tos).
 
 ## Children's privacy
 
