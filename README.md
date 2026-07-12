@@ -11,7 +11,7 @@ FitIn is a fitness accountability app. This policy explains what information we 
 - We collect only what we need to run the app: account details, fitness logs, optional profile info, and (if you enable them) location and push notifications.
 - We do **not** sell your personal information.
 - We do **not** show ads or use third-party analytics trackers.
-- You can delete your account in the app, or contact us for data access requests (see [Contact](#contact)).
+- You can delete your account in the app or by email — see our [Account & Data Deletion](account-deletion.md) page for full steps.
 
 ## Information we collect
 
@@ -99,7 +99,7 @@ We may also disclose information if required by law or to protect the rights, sa
 
 ## Data retention
 
-We keep your data for as long as your account is active. If you deactivate your account, we retain your data so you can reactivate by signing in again. If you delete your account from the Profile screen, we permanently delete or anonymize your personal data promptly, except where we must retain information for legal, security, or dispute-resolution purposes.
+We keep your data for as long as your account is active. If you deactivate your account, we retain your data so you can reactivate by signing in again. If you delete your account permanently, we remove your personal data promptly — see [Account & Data Deletion](account-deletion.md) for what is deleted, what may be kept, and retention periods.
 
 ## Data security
 
@@ -116,7 +116,7 @@ You can:
 - **Revoke location access** in your device settings (home gym pinning and location-based features will stop working)
 - **Sign out** of FitIn at any time from your profile screen
 - **Deactivate your account** temporarily from your profile screen (hides your account; sign in again to reactivate)
-- **Delete your account** permanently from your profile screen (removes your personal data from our systems)
+- **Delete your account** permanently from your profile screen (removes your personal data from our systems) — see [Account & Data Deletion](account-deletion.md)
 - **Contact us** for data access or other privacy requests (see below)
 
 Use of FitIn is also governed by our [Terms of Service](https://github.com/nfiny-jae/app-fitin-tos).
@@ -135,8 +135,6 @@ We may update this policy from time to time. We will post the revised version in
 
 ## Contact
 
-For privacy questions, data access requests, or account deletion requests, open an issue on the main FitIn repository:
+For privacy questions or data access requests, email **dev@nfiny.com**. Please include the email address associated with your FitIn account so we can verify your request.
 
-**https://github.com/nfiny-jae/app-fitin/issues**
-
-Please include the email address associated with your FitIn account so we can verify your request.
+To delete your account and associated data, follow the steps on our [Account & Data Deletion](account-deletion.md) page.
