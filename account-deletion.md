@@ -95,4 +95,5 @@ We remove:
 ## Contact
 
 **Email:** dev@nfiny.com  
+**Support:** [FitIn Support](https://github.com/nfiny-jae/app-fitin-support)  
 **Privacy policy:** [FitIn Privacy Policy](https://github.com/nfiny-jae/app-fitin-privacy)

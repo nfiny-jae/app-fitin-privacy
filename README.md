@@ -135,6 +135,8 @@ We may update this policy from time to time. We will post the revised version in
 
 ## Contact
 
+For general help, FAQs, and troubleshooting, see our [FitIn Support page](https://github.com/nfiny-jae/app-fitin-support).
+
 For privacy questions or data access requests, email **dev@nfiny.com**. Please include the email address associated with your FitIn account so we can verify your request.
 
 To delete your account and associated data, follow the steps on our [Account & Data Deletion](account-deletion.md) page.
